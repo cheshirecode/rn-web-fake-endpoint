@@ -2,14 +2,13 @@
 
 # Task
 
-See [a relative link](../task.md)
 
 # Stack
 
-- [React Native for Web])https://github.com/necolas/react-native-web] - very portable code that mostly works for Web and RN (which mean both iOS and Android).
-- [RN Material UI])https://github.com/xotahal/react-native-material-ui/] - due to self-imposed time limit, component library'd add some shortcuts but I personally felt it'd take more time in the long run versus writing custom components based on building blocks like Tachyon and/or styled-components v4.
-- [Unstated])https://github.com/jamiebuilds/unstated/tree/master/example] - Redux is alot of boilerplates, before adding _-saga_ or _-observable_. Rxjs is not quick to get to productivity. Unstated has just about the right kind of complexity and pattern.
-- [Reach Router])https://reach.tech/router/] - lighter and modern version of React Router (same author)
+- [React Native for Web](https://github.com/necolas/react-native-web) - very portable code that mostly works for Web and RN (which mean both iOS and Android).
+- [RN Material UI](https://github.com/xotahal/react-native-material-ui/) - due to self-imposed time limit, component library'd add some shortcuts but I personally felt it'd take more time in the long run versus writing custom components based on building blocks like Tachyon and/or styled-components v4.
+- [Unstated](https://github.com/jamiebuilds/unstated/tree/master/example) - Redux is alot of boilerplates, before adding _-saga_ or _-observable_. Rxjs is not quick to get to productivity. Unstated has just about the right kind of complexity and pattern.
+- [Reach Router](https://reach.tech/router/) - lighter and modern version of React Router (same author)
 
 # Notes
 
